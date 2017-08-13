@@ -5,6 +5,9 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
+/*Просмотр конфликлов git, изменения в ветке master*/
+
+
 public class Phonebook {
     private static Map<String, ArrayList<String>> personPhone = new HashMap<>();
 
