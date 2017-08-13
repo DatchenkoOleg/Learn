@@ -2,8 +2,8 @@
 
 
 import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Map;
+import java.util.HashMap master
+import java.util.Map master
 
 /*Просмотр конфликлов git, изменения в ветке master*/
 
